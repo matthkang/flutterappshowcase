@@ -27,4 +27,20 @@ All the screen are made with flutter dart language, and the data is stored on bo
 
 
 
+### Content Uploader
 
+<img width="552" height="1185" alt="image" src="https://github.com/user-attachments/assets/f470718e-59c0-468a-8ac5-0a8b60f8d2cd" />
+
+<img width="546" height="1150" alt="image" src="https://github.com/user-attachments/assets/21e51654-4112-4488-9425-03381479fe32" />
+
+
+## Snap shots of my code
+
+* Modules group the features
+* Localization
+
+<img width="781" height="904" alt="image" src="https://github.com/user-attachments/assets/bdace4e7-7c94-4907-896b-9fc4f0c214b4" />
+
+* Peek at the pubspec.yaml
+  
+<img width="777" height="902" alt="image" src="https://github.com/user-attachments/assets/b72cbfb7-057f-4144-95e8-f9fdc23ef5d4" />

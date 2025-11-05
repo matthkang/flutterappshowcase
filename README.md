@@ -33,6 +33,14 @@ All the screen are made with flutter dart language, and the data is stored on bo
 
 <img width="546" height="1150" alt="image" src="https://github.com/user-attachments/assets/21e51654-4112-4488-9425-03381479fe32" />
 
+### Registration and Login
+
+#### Login
+<img width="620" height="1324" alt="image" src="https://github.com/user-attachments/assets/40f6234a-881a-446b-9ccf-80fe7fa1f0ea" />
+
+#### Registration
+<img width="618" height="1336" alt="image" src="https://github.com/user-attachments/assets/072720cb-905c-4ec5-9d25-721c8dd8d41c" />
+
 
 ## Snap shots of my code
 
